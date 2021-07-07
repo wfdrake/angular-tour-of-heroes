@@ -1,4 +1,8 @@
 # AngularTourOfHeroes
+Author: William Drake
+Date: 7/6/21
+
+Created by following the tutorial in the Angular documentation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
